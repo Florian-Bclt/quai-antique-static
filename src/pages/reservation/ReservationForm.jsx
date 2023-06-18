@@ -24,7 +24,7 @@ const ReservationForm = () => {
                 ))}
               </select>
           <label id='calendar' htmlFor="date" className='reservation-icon'><BiCalendar /></label>
-          <input className='reservation-input' type="date"/>
+            <input className='reservation-input' type="date"/>
         </form>
       </div>
         <div className="lunch p__cormorant">
